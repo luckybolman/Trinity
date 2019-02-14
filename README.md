@@ -44,7 +44,6 @@ $ gunicorn --workers=4 app:app
 ```
 #### Passenger production environment
 - See `passenger_wsgi.py`
-###### (http://griimnak.me/trinity runs on passenger through cpanel)
 
 #### Windows waitress production environment
 ###### *Waitress is a gunicorn alternative for windows.* 
